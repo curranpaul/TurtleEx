@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "turtleEx", "turtleEx\turtleEx.csproj", "{0046EDAD-E66A-4E1E-8349-71BE96DD39D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{38803F01-D5CE-4EC9-9654-EF960E83D0D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "turtleExTests", "turtleExTests\turtleExTests.csproj", "{4B843056-1546-4164-A125-55B472E35FA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0046EDAD-E66A-4E1E-8349-71BE96DD39D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0046EDAD-E66A-4E1E-8349-71BE96DD39D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0046EDAD-E66A-4E1E-8349-71BE96DD39D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0046EDAD-E66A-4E1E-8349-71BE96DD39D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38803F01-D5CE-4EC9-9654-EF960E83D0D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38803F01-D5CE-4EC9-9654-EF960E83D0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38803F01-D5CE-4EC9-9654-EF960E83D0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38803F01-D5CE-4EC9-9654-EF960E83D0D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B843056-1546-4164-A125-55B472E35FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B843056-1546-4164-A125-55B472E35FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B843056-1546-4164-A125-55B472E35FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B843056-1546-4164-A125-55B472E35FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

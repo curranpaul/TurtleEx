@@ -1,0 +1,35 @@
+﻿{
+	"BoardSize": {
+		"X": 5,
+		"Y": 4
+	},
+	"StartingPoint": {
+		"X": 0,
+		"Y": 1
+	},
+	"Direction": 0,
+	"ExitPoint": {
+		"X": 4,
+		"Y": 2
+	},
+	"Mines": [
+		{
+			"Position": {
+				"X": 1,
+				"Y": 1
+			}
+		},
+		{
+			"Position": {
+				"X": 3,
+				"Y": 1
+			}
+		},
+		{
+			"Position": {
+				"X": 3,
+				"Y": 3
+			}
+		}
+	]
+}

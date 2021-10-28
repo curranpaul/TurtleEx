@@ -1,0 +1,12 @@
+C:\projects\turtleEx\turtleExTests\bin\Debug\Resources\Moves.txt
+C:\projects\turtleEx\turtleExTests\bin\Debug\Resources\Game-Settings.json
+C:\projects\turtleEx\turtleExTests\bin\Debug\turtleExTests.dll
+C:\projects\turtleEx\turtleExTests\bin\Debug\turtleExTests.pdb
+C:\projects\turtleEx\turtleExTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\projects\turtleEx\turtleExTests\bin\Debug\turtleEx.exe
+C:\projects\turtleEx\turtleExTests\bin\Debug\Newtonsoft.Json.dll
+C:\projects\turtleEx\turtleExTests\bin\Debug\turtleEx.pdb
+C:\projects\turtleEx\turtleExTests\bin\Debug\Newtonsoft.Json.xml
+C:\projects\turtleEx\turtleExTests\obj\Debug\turtleExTests.csprojResolveAssemblyReference.cache
+C:\projects\turtleEx\turtleExTests\obj\Debug\turtleExTests.dll
+C:\projects\turtleEx\turtleExTests\obj\Debug\turtleExTests.pdb
